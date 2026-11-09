@@ -1,0 +1,6 @@
+# iMass Innovation crawler instructions
+User-agent: *
+Allow: /
+
+# XML sitemap
+Sitemap: https://imassinnovation.org/sitemap.xml
